@@ -1,0 +1,14 @@
+html, body {
+	margin: 20px auto; 
+	height: 100%; 
+}
+body {
+	font-family: Pacifico;
+	font-size: 60px;
+	text-align: center;
+	background-image: url(../img/memphis-colorful.png);
+	color: #ff5722;
+}
+img {
+	display: none;
+}

@@ -10,5 +10,10 @@ body {
 	color: #ff5722;
 }
 img {
-	display: none;
+	display: block;
+	margin-right: auto;
+    margin-left: auto;
+	max-width: 400px;
+	border: 2px solid #ff5722;
+
 }
